@@ -1,0 +1,23 @@
+D:\OOP\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe.config
+D:\OOP\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat Bot.exe
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat Bot.pdb
+D:\OOP\Chat Bot\Chat Bot\bin\Debug\Chat Bot.pdb
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Form1.resources
+D:\OOP\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe.config
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\bin\Debug\Chat Bot.pdb
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\bin\Debug\Newtonsoft.Json.dll
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\bin\Debug\Newtonsoft.Json.xml
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Form1.resources
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.CopyComplete
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat Bot.exe
+D:\OOP\ver 1.1\Chat Bot\Chat Bot\obj\Debug\Chat Bot.pdb
